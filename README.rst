@@ -51,4 +51,4 @@ Microsoft's "The Math Teacher” Challenge is a NLP Challenge for building a per
 The goal is to build and NLP model that can perform automatic problem solving (especially math word problems) written in natural language. 
 Your mission, if you choose to accept it, is to build a model that can return the highest amount of correct answers above a given baseline on the number_word_std test set.
 
-**Presentation:** 
+**Presentation:** https://github.com/DataHackIL/DataChallenges/blob/master/2018/Microsoft_challenge_datahack_2018.pdf
