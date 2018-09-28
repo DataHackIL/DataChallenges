@@ -1,8 +1,8 @@
-DataWorkshops
-#############
+DataChallenges
+##############
 
 
-This is a list of data science related workshops and intro talks given at `DataHack <http://datahack-il.com/>`_ events.
+This is a list of sponsor challenges at `DataHack <http://datahack-il.com/>`_ events.
 
 You can find us on `our website <http://datahack-il.com/>`_, `Facebook <https://www.facebook.com/datahackil/>`_, `Meetup <https://www.meetup.com/DataHack/>`_, `YouTube <https://www.youtube.com/channel/UCdR7G8Yeh52LK1AvfFaEsqQ>`_ and `Twitter <https://twitter.com/DataHackIL/>`_, and also join `our monthly newsletter <https://mailchi.mp/2c67d69eb667/datahack-newsletter>`_. 
 
