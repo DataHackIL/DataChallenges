@@ -30,7 +30,7 @@ Innoviz Technologies -  Rigid Motion Segmentation
 
 **Description:** Are you passionate about making widespread, impactful global changes? Autonomous vehicles represent one of the biggest revolutions mankind has ever seen and they will affect every aspect of our daily lives. In this challenge you will help to enable the autonomous car revolution. Teams undertaking Innoviz’s Rigid Motion Segmentation Challenge will solve the problem of decomposing LIDAR data (point cloud) into background and moving objects.
 
-**Presentation:** 
+**Presentation:**  https://github.com/DataHackIL/DataChallenges/blob/master/2018/innoviz_challenge_datahack_2018.pdf
 
 **Repository:** https://github.com/InnovizTech/DataHack2018
 
