@@ -40,6 +40,8 @@ Lightricks - Churn Prediction
 
 **Description:** Want to help a top Jerusalem startup pilot churn prediction on an actual project for its flagship app - a product already used by millions all over the world? Sift through noisy data to discover patterns predicting who will churn and even when these ‘suspects’ are likely to unsubscribe, to earn yourself a lucrative reward at DataHack 2018!
 
+**Presentation:** https://github.com/DataHackIL/DataChallenges/blob/master/2018/Lightricks_challenge_2018.pdf
+
 **Repository:** https://github.com/Lightricks/datahack
 
 
