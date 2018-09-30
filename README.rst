@@ -22,6 +22,8 @@ Intel - Data Science for Social Good
 
 **Description:** Are you passionate about making the world a better place? Are you excited to use AI for the benefit of mankind? Intel, DataHack 2016's co-host, is posing the AI for Social Good Challenge. Intel will award a cool prize to each member of the team whose project most effectively utilizes AI to address a social issue.
 
+**Potential Datasets:** https://github.com/shreyashankar/datasets-for-good
+
 
 Final - The Taxi Challenge
 --------------------------
@@ -59,6 +61,8 @@ Intel - Data Science for Social Good
 
 **Description:** Are you passionate about making the world a better place? Are you excited to use AI for the benefit of mankind? Intel, DataHack 2017's co-host, is posing the AI for Social Good Challenge. Intel will award a cool prize to each member of the team whose project most effectively utilizes AI to address a social issue.
 
+**Potential Datasets:** https://github.com/shreyashankar/datasets-for-good
+
 
 Rafael - It Takes a Rocket (data) Scientist!
 --------------------------------------------
@@ -91,6 +95,8 @@ Intel - Data Science for Social Good
 **Description:** Are you passionate about making the world a better place? Are you excited to use AI for the benefit of mankind? Intel, DataHack 2018's co-host, is posing the AI for Social Good Challenge. Intel will award a cool prize to each member of the team whose project most effectively utilizes AI to address a social issue.
 
 **Presentation:** https://github.com/DataHackIL/DataChallenges/blob/master/2018/Intel_challenge_datahack_2018.pdf
+
+**Potential Datasets:** https://github.com/shreyashankar/datasets-for-good
 
 
 Innoviz Technologies -  Rigid Motion Segmentation
