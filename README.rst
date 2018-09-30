@@ -8,7 +8,7 @@ You can find us on `our website <http://datahack-il.com/>`_, `Facebook <https://
 
 |
 
-.. contents:: **Past meetups:**
+.. contents:: **DataHack Challenges:**
 
 .. section-numbering:
 
