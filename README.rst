@@ -55,4 +55,4 @@ Your mission, if you choose to accept it, is to build a model that can return th
 
 **Presentation:** https://github.com/DataHackIL/DataChallenges/blob/master/2018/Microsoft_challenge_datahack_2018.pdf
 
-**Repository:** [Microsoft Math Teacher Challenge](https://github.com/aribornstein/MathTeacherChallenge/blob/master/README.md)
+**Repository:** https://github.com/aribornstein/MathTeacherChallenge/
