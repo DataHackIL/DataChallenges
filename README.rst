@@ -20,6 +20,37 @@ DataHack 2018
 Intel - Data Science for Social Good
 ------------------------------------
 
+**Description:** Are you passionate about making the world a better place? Are you excited to use AI for the benefit of mankind? Intel, DataHack 2017's co-host, is posing the AI for Social Good Challenge. Intel will award a cool prize to each member of the team whose project most effectively utilizes AI to address a social issue.
+
+
+Rafael - It Takes a Rocket (data) Scientist!
+--------------------------------------------
+
+**Description:** Ever wondered how it feels to press the red button and take down missiles? Well this challenge will get you fairly close to that goal! You will be provided with short length trajectories (5-15s) and you’ll need to decide what type of threat you are facing. This challenge, provided by Rafael, combines both supervised and unsupervised learning. 
+
+**Repository:** https://github.com/RocketDataScientist/DataHack-2017
+
+
+
+OrCam - Instagram Challenge
+---------------------------
+
+**Description:** You think finding a needle in a haystack is easy-peasy-lemon-squeezy? Well you’re in for a treat! In the instagram challenge you will receive ~1M photos taken from 10K albums, your task will be to find the images that belong to the album’s owner. But not to worry, OrCam is here to help (a bit) - for each image you will be given some metadata and a descriptor for the face residing in it. 
+
+
+SparkBeyond -  Word Disambiguation
+----------------------------------
+
+**Description:** Did you always dream about being a detective? In that case we’ve got a great mystery for you to solve! In the word disambiguation challenge you will receive a sentence and a single token, you will then need to utilize all of your detective skills to find the right Wikipedia page defining this token. 
+
+|
+
+DataHack 2018
+=============
+
+Intel - Data Science for Social Good
+------------------------------------
+
 **Description:** Are you passionate about making the world a better place? Are you excited to use AI for the benefit of mankind? Intel, DataHack 2018's co-host, is posing the AI for Social Good Challenge. Intel will award a cool prize to each member of the team whose project most effectively utilizes AI to address a social issue.
 
 **Presentation:** https://github.com/DataHackIL/DataChallenges/blob/master/2018/Intel_challenge_datahack_2018.pdf
