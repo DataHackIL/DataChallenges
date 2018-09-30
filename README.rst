@@ -14,7 +14,44 @@ You can find us on `our website <http://datahack-il.com/>`_, `Facebook <https://
 
 |
 
-DataHack 2018
+DataHack 2016
+=============
+
+Intel - Data Science for Social Good
+------------------------------------
+
+**Description:** Are you passionate about making the world a better place? Are you excited to use AI for the benefit of mankind? Intel, DataHack 2016's co-host, is posing the AI for Social Good Challenge. Intel will award a cool prize to each member of the team whose project most effectively utilizes AI to address a social issue.
+
+
+Final - The Taxi Challenge
+--------------------------
+
+**Description:** A taxi goes from Chinatown to Times Square. How long will it take to arrive? In this challenge, you are given data on taxi rides in New York, containing information on each ride such as the start and end points, date, time of day, distance, etc. The `data is available here <https://www.dropbox.com/sh/ucx5z0ck5wh4so2/AABBuNoFafDtZ4tuYoZ4qoLOa?dl=0>`_. Our purpose is to predict the travel time (in logarithmic scale) of a ride. The data is split to train and test sets, and we can use both general data of the ride with local data on similar rides from the train set.
+
+**Repository:** https://github.com/RocketDataScientist/DataHack-2017
+
+
+
+Wix - User Action Prediction
+----------------------------
+
+**Description:** WIX collects logs of user actions within its platform. One of the main tasks of our Data Science team is understanding and predicting user behavior in order to optimize user experience and company revenue. Our team focuses on building models that are compact & efficient without compromising on accuracy. Using historical user event data we want to predict if a user performs a specific action ("the target action") within 14 days from the last available activity data.
+
+
+Windward -  You remind me of a ship I know...
+---------------------------------------------
+
+**Description:** Windward is a data and analytics company making sense of ship and cargo movements around the world. Our Data Platform takes raw, unstandardized big data from multiple sources – which is often partial and unreliable - and uses ML to fuse the data and analyze each ship's actual behavior to determine ship identities and what they are doing. This helps to create actionable, insightful knowledge about what’s happening at sea from otherwise hard-to-interpret, noisy data.
+
+One of the most important data features is ship type. A ship type describes what class of ship it is and could be anything from a small fishing vessel to a massive oil tanker. Most ships report their true type but some don’t, which means their designation labels are either incorrect or missing. In this case, we have to infer it ourselves.
+
+In our data challenge you will help us predict ship type according to ship behavior. We will provide information about ship activities (meetings with other vessels, port visits, etc.). Some ships will be labeled with their type and other labels will be missing. The challenge is to infer the type of unlabeled ships based on labeled ships exhibiting similar behavior. The underlying assumption is that ships engaged in similar activities (e.g. frequenting the same ports, meeting with the same ships) are more likely to be of the same type.
+
+This is, in a way, the ship version of “people similar to you” used on social websites. So, are you up to the challenge?
+
+|
+
+DataHack 2017
 =============
 
 Intel - Data Science for Social Good
