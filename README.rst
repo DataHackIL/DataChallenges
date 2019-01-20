@@ -116,7 +116,7 @@ Lightricks - Churn Prediction
 
 **Presentation:** https://github.com/DataHackIL/DataChallenges/blob/master/2018/Lightricks_challenge_2018.pdf
 
-**Repository:** https://github.com/Lightricks/datahack
+**Repository:** https://github.com/DataHackIL/datahack-2018-challenge
 
 
 Microsoft - The Math Teacher Challenge
