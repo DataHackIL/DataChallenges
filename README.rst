@@ -152,6 +152,18 @@ Orcam’s challenge invites you to recognize movie stars without using their fac
 
 |
 
+monday.com - DataLearn 2019 - Lead Score Prediction
+---------------------------------------------------
+
+**Description:** When you get thousands of new customers every day, and only have a few dozen consultants to work with, you have to carefully pick which accounts get that special VIP consulting services.
+In our lead-scoring challenge you'll get 6 months of anonymous user-events (over 4B records) and help us find the crème de la crème, pick of the litter, the best of the best customer that could use our extra attention and get the most out of monday.com!
+
+**Presentation:** ???
+
+**Leaderboard:** https://leaderboard.datahack.org.il/monday
+
+|
+
 Armis - Devices Gone Rouge
 --------------------------
 
