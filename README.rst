@@ -130,3 +130,56 @@ Your mission, if you choose to accept it, is to build a model that can return th
 **Presentation:** https://github.com/DataHackIL/DataChallenges/blob/master/2018/Microsoft_challenge_datahack_2018.pdf
 
 **Repository:** https://github.com/aribornstein/MathTeacherChallenge/
+
+|
+
+DataHack 2019
+=============
+|
+
+OrCam - Faceless Recognition
+----------------------------
+
+**Description:** Our brains use faces as the main classifier for a person’s identity. We even have a specific “face area” in the brain dedicated to this task. Computer vision tools are based on the same idea and use facial features for identifying people. However, as humans, we are able to recognize close friends and others from afar and even from behind. This is achieved using body features such as hairstyle, body structure, gait and other characteristics. Can we achieve the same using AI?
+
+Orcam’s challenge invites you to recognize movie stars without using their faces. In our challenge, you will receive low resolution and occluded images of famous actors and will be asked to  identify them. Other than the unique dataset we have created you will receive a set of features we prepared for each image so that you can focus on the algorithms and let us worry about computation. Can you do it?
+
+**Presentation:** ???
+
+**Repository:** https://github.com/DataHackIL/orcam_challenge_datahack2019
+
+**Leaderboard:** https://leaderboard.datahack.org.il/orcam
+
+|
+
+Armis - Devices Gone Rouge
+--------------------------
+
+**Description:** Ever wondered what would happen if you just plug in that seemingly innocent USB you found laying around? You’re about to find out! In this devices-gone-rogue challenge - should you choose to accept it - you will gain access to traffic data of ~ 1M devices, and will be tasked with finding the devices that, well, misbehave. This challenge, provided by Armis, is fully unsupervised - so put your anomaly belt on and get to it!
+
+**Presentation:** ???
+
+**Repository:** https://github.com/DataHackIL/Armis_Challenge_DataHack2019
+
+|
+
+Lightricks - Data-driven Art
+----------------------------
+
+**Description:** Lightricks encourage its users to express their inner artist using the apps they develop. Whether You're just starting out or editing pros, all you need is a phone and their apps to create some incredible content. Spread the message that art & creation is everywhere.
+In this free form vertical challenge you can use data and models for the creation, analysis and manipulation of art, design and infographics. Use machine learning tools, supervised or unsupervised models, vision algorithms, or any method you think up. 
+Surprise us! Unleash your inner artist and use your creativity to create something amazing. You can use tabular data, images, videos, audio or any other type of data.
+
+**Examples:** The Lightricks logo is plotted using our users usage data. 
+Each dot represents a user and each shape and color represents a different cluster of 
+users’ behavior. The clusters are based on the users favorite tools, duration in app, and other usage data. The variance within the cluster determines the width of each cluster.
+
+**Presentation:** ???
+
+**Links for inspiration:**
+ 
+* https://www.behance.net/gallery/82906907/Design-Machines-student-work
+* https://twitter.com/ml4a_
+* https://www.instagram.com/refikanadol/
+* https://openai.com/blog/musenet/ 
+* https://runwayml.com/
