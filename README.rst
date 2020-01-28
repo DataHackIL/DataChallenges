@@ -69,7 +69,7 @@ Rafael - It Takes a Rocket (data) Scientist!
 
 **Description:** Ever wondered how it feels to press the red button and take down missiles? Well this challenge will get you fairly close to that goal! You will be provided with short length trajectories (5-15s) and you’ll need to decide what type of threat you are facing. This challenge, provided by Rafael, combines both supervised and unsupervised learning. 
 
-**Repository:** https://github.com/RocketDataScientist/DataHack-2017
+**Repository:** https://github.com/DataHackIL/RocketDataScientist
 
 
 
